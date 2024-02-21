@@ -1,0 +1,12 @@
+[
+    {
+        "titel": "Python Programmierung für Anfänger",
+        "autor": "Max Mustermann",
+        "isbn": "1234567890"
+    },
+    {
+        "titel": "Fortgeschrittene Python Projekte",
+        "autor": "Erika Mustermann",
+        "isbn": "0987654321"
+    }
+]
