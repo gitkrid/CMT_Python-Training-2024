@@ -1,0 +1,23 @@
+[
+    {
+        "titel": "Python Programmierung f\u00c3\u00bcr Anf\u00c3\u00a4nger",
+        "autor": "Max Mustermann",
+        "isbn": "1234567890",
+        "erscheinungsjahr": null,
+        "genre": null
+    },
+    {
+        "titel": "Fortgeschrittene Python Projekte",
+        "autor": "Erika Mustermann",
+        "isbn": "0987654321",
+        "erscheinungsjahr": null,
+        "genre": null
+    },
+    {
+        "titel": "Neues Buch Titel Update",
+        "autor": "Autor Update",
+        "isbn": "1122334455",
+        "erscheinungsjahr": null,
+        "genre": null
+    }
+]
