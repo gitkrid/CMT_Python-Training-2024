@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>Python Programming</title>
+        <author>John Doe</author>
+        <year>2018</year>
+        <genre>Programming</genre>
+    </book>
+    <book id="2">
+        <title>Learning XML</title>
+        <author>Jane Smith</author>
+        <year>2020</year>
+        <genre>Technology</genre>
+    </book>
+    <book id="3">
+        <title>Advanced Databases</title>
+        <author>James Brown</author>
+        <year>2019</year>
+        <genre>Computer Science</genre>
+    </book>
+</library>
