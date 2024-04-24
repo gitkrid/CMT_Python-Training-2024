@@ -10,3 +10,7 @@ die richtige Zahl zu erraten.
 Zusatz: Ändere dein Programm so, dass du genau 4 Versuche hast, um die Zahl zu
 erraten.
 """
+import random
+
+
+computer_zahl = random.randint(0, 100)
